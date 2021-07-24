@@ -14,7 +14,13 @@ I am Lucia, i'm studying Systems Development at ETEC and I own a Technology comp
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-viola-tomaz-650306200/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhmvtomaz@gmail.com)
+<br>
+<br>
+## Meu Currículo Profissional:
 
+<a href="https://developerluciah.github.io/index.html">
+ https://developerluciah.github.io/index.html </a>
+<br>
 <br>
 
 ## </> Studying
