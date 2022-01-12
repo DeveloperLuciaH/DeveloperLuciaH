@@ -1,6 +1,6 @@
 ## Welcome! 👩‍💻 💖
 
-I am Lucia, i'm studying Systems Development at ETEC and I own a Technology company! <br> <br>
+I am Lucia, i'm studying Systems Development and I own a Technology company! <br> <br>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DeveloperLuciaH&repo=DeveloperLuciaH&countColorcountColor)
 
